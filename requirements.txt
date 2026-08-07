@@ -1,0 +1,7 @@
+streamlit>=1.32
+torch>=2.1
+transformers>=4.40
+peft>=0.10
+huggingface_hub>=0.22
+accelerate>=0.30
+sentencepiece>=0.2
